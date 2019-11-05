@@ -3,7 +3,7 @@
 A Mod for the game [Founders' Fortune](https://foundersfortune.com/). Tested and working with version **Alpha 10.3**.
 
 English:  
-Mod to disable the moving snowflakes of the weather snow and snowstorm ingame for players with circulatory problems or motion sickness. If it's not working in an existing savegame, try with a new one.
+Mod to disable the moving snowflakes of the weather snow and snowstorm ingame for players with circulatory problems or motion sickness. If it's not working in an existing savegame, try it with a new one.
 
 Deutsch:  
 Eine Mod, um die sich bewegenden Schneeflocken beim Wetter Schnee und Schneesturm im Spiel für Spieler mit Kreislaufbeschwerden oder Spielübelkeit (motion sickness) zu deaktiveren. Wenn es bei einem bestehenden Spielstand nicht funktioniert, versuche es mit einem neuen Spielstand.
