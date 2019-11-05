@@ -1,0 +1,10 @@
+{
+	"name": "NoSnowMod",
+	"version": "1.0",
+	"author": "Sir Toby",
+	"website": "https://foundersfortune.com",
+	"description": "English:\nA mod to disable the moving snowflakes of the weather snow and snowstorm ingame for players with circulatory problems or motion sickness. If it's not working in an existing game, try with a new one.\n\nDeutsch:\nEine Mod, um die sich bewegenden Schneeflocken beim Wetter Schnee und Schneesturm im Spiel für Spieler mit Kreislaufbeschwerden oder Spielübelkeit (motion sickness) zu deaktiveren. Wenn es bei einem bestehenden Spielstand nicht funktioniert, versuche es mit einem neuen Spielstand.\n\nSource Code: https://github.com/SirTobyB/FoundersFortune.NoSnowMod",
+	"compatibleVersions": [
+		"Alpha 10.3"
+	]
+}
