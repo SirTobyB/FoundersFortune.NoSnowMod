@@ -5,8 +5,6 @@
 // Founders' Fortune doesn't use an own namespace though.
 namespace NoSnowMod
 {
-    // System.Serializable is obligatory.
-    [System.Serializable]
     public class NoSnowMod : Mod 
     {
         // The Load() function is called when the mods are loaded into memory.
@@ -28,8 +26,7 @@ namespace NoSnowMod
         // Be very careful that you don't put anything too performance-heavy directly in here or you will easily slow down the player's game.
         public override void Update() 
         {
-            // Disable the moving of the snowflake objects, so that they become visible, completely
-            //MonoBehaviour.print("disable snow");
+            // Disable the moving of the snowflake objects, so that they no longer become visible
             WorldScripts.Instance.weatherManager.precipitationManager.SetIsSnowing(false, false);
         }
     }
