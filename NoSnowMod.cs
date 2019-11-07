@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
 
-
 // It's good practice to keep all of your source code in your own namespace
 // Founders' Fortune doesn't use an own namespace though.
 namespace NoSnowMod
 {
+    // System.Serializable is obligatory.
+    [System.Serializable]
     public class NoSnowMod : Mod 
     {
         // The Load() function is called when the mods are loaded into memory.
